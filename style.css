@@ -1,0 +1,33 @@
+body{
+    font-family: 'Akaya Telivigala', cursive;
+    background: lime;
+}
+
+.header_div{
+    background: white;
+    color: rgb(0, 255, 179);
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background: #4c00ff;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(45, 19, 212);
+}
+
+.main_div label{
+    background: white;
+    
+    box-shadow: 5px 5px 20px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 5px 5px 20px white;
+    border: 2px solid white;
+}
